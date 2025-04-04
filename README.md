@@ -48,19 +48,3 @@ pip install pandas numpy matplotlib seaborn mlxtend fpgrowth_py
 
 ```
 ```
-
-3. Run each cell in order
-
----
-
-## 👩‍💻 Contributors
-
-- Aslesha Reddy Byreddy
-- Harshavardhan, Jahnavi, Keerthi Chinmayee
-
----
-
-## 📜 License
-
-MIT License
-
