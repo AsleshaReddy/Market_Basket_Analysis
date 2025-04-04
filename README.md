@@ -45,6 +45,3 @@ This project explores Market Basket Analysis (MBA) using three major algorithms:
 2. Make sure all required libraries are installed:
 ```bash
 pip install pandas numpy matplotlib seaborn mlxtend fpgrowth_py
-
-```
-```
